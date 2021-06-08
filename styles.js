@@ -9,7 +9,11 @@ const styles = StyleSheet.create({
     backgroundColor: '#fff',
     alignItems: 'center',
     justifyContent: 'center',
+    margin: 5,
     padding:5,
+    borderWidth: 1,
+    borderStyle: "solid",
+    borderColor: "darkslategray",
     backgroundColor: 'ghostwhite',
     ...Platform.select({
       ios: {paddingTop:20},
