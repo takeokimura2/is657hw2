@@ -69,7 +69,7 @@ const styles = StyleSheet.create({
     flex: 1,
     flexDirection: "column",
     alignItems: "flex-start",
-    justifyContent: "flex-start",
+    justifyContent: "center",
     borderWidth: 1,
     borderStyle: "solid",
     borderColor: "darkslategray",
